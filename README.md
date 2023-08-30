@@ -24,6 +24,21 @@ Based in San Francisco 📍🌎🌉
 
 ---
 
+### 💼 Work experience
+
+| Company | Role |
+| ---- | ----------- |
+| Amazon | Software Development Engineer |
+| Center for Computational Molecular Biology| Deep Learning Lead Researcher |
+| Brown University | Computer Science Teaching Assistant |
+| Insitro | Software Engineering and Advanced Imaging Intern |
+| Brown University Medical School | Artificial Intelligence Radiology Researcher |
+| Harvard University | NSF Quantitative Systems Biology Intern |
+| University of California, Davis | Vaccine Development Assistant |
+| Pointz | Full Stack Lead |
+
+---
+
 ### 🚀 Current Projects
 - Publishing a deep learning in genomics research paper
 - Developing a deep learning task-tracking web-based app
