@@ -84,6 +84,7 @@ Database:
 ![Static Badge](https://img.shields.io/badge/library-django-darkgreen?style=flat-square&logo=django)
 
 Project Management:
+
 ![Static Badge](https://img.shields.io/badge/library-jira-darkgreen?style=flat-square&logo=jira)
 ![Static Badge](https://img.shields.io/badge/library-confluence-darkgreen?style=flat-square&logo=confluence)
 
