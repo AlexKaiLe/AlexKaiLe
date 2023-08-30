@@ -10,7 +10,7 @@ Based in San Francisco 🌎
 
 </div>
 
-**🎓 Computational Biologist Graduate** and **🥼 Machine Learning Researcher** from Brown University. I am passionate in leveraging biomedical research and computer science to develop innovative software solutions. In this GitHub, you will find several repositories that reflect a strong background across several disciplines.
+**🎓 Computational Biologist Graduate** and **🥼 Machine Learning Researcher** from Brown University. I am passionate in leveraging biomedical research and computer science to develop innovative software solutions. In this GitHub, you will find several repositories that reflect a strong background across several disciplines:
   
 - Deep Learning
 - Web Development
@@ -69,4 +69,8 @@ Project Management:
 ![Static Badge](https://img.shields.io/badge/library-confluence-darkgreen?style=flat-square&logo=confluence)
 
 
+<div align="center">
 
+⭐️ From [Alex Le](https://github.com/AlexKaiLe)
+
+</div>
