@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" width="250" />
+<img src="https://github.com/AlexKaiLe/AlexKaiLe/blob/main/profile_grad.jpg" width="250" />
 
 # Hi, I'm Alex Le 
 Based in San Francisco 🌎
@@ -10,7 +10,7 @@ Based in San Francisco 🌎
 
 </div>
 
-**🎓 Computational Biologist Graduate** and **🥼 Machine Learning Researcher** from Brown University with a strong background in
+**🎓 Computational Biologist Graduate** and **🥼 Machine Learning Researcher** from Brown University. I am passionate in leveraging biomedical research and computer science to develop innovative software solutions. In this GitHub, you will find several repositories that reflect a strong background across several disciplines.
   
 - Deep Learning
 - Web Development
@@ -22,9 +22,7 @@ Based in San Francisco 🌎
 
 ---
 
-My name is Alex Le and I am interested in leveraging biomedical research and computer science to develop innovative software solutions. In this GitHub, you will find several repositories that reflect my interests and coding skills.
-
-### 🚀 Current Endeavors
+### 🚀 Current Projects
 - Publishing a deep learning in genomics research paper
 - Developing a deep learning task-tracking web-based app
 
