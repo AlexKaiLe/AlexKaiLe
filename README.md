@@ -8,14 +8,13 @@
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/alexkaile/)
 
 </div>
-<div align="left">
+
 **Computational Biologist Graduate and Machine Learning Researcher** from Brown University with a strong background in
   
 - Deep learning
 - Biomedical Engineering
 - Optimization
 - Entrepreneurship
-</div>
 ---
 
 ---
