@@ -12,7 +12,7 @@
 **Computational Biologist Graduate and Machine Learning Researcher** from Brown University with a strong background in
   
 - Deep learning
-- Biomedical engineering
+- Biomedical Engineering
 - Optimization
 - Entrepreneurship
 </div>
