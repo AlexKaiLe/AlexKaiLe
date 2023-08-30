@@ -12,7 +12,7 @@ Based in San Francisco 📍🌎🌉
 
 ---
 
-**🎓 Computational Biologist Graduate** and **🥼 Machine Learning Researcher** from Brown University. I am passionate in leveraging biomedical research and computer science to develop innovative software solutions. In this GitHub, you will find several repositories that reflect a strong background across several disciplines:
+**🎓 Computational Biologist Graduate** and **🥼 Machine Learning Researcher** from Brown University. I am passionate about leveraging biomedical research and computer science to develop innovative software solutions. In this GitHub, you will find several repositories that reflect a strong background across several disciplines:
   
 - Deep Learning
 - Web Development
