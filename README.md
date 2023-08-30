@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/AlexKaiLe/AlexKaiLe/blob/main/profile_grad.jpg" width="250" />
 
-# Hi, I'm Alex Le 
+# 👋 Hi, I'm Alex Le 
 Based in San Francisco 🌎
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-%230077B5?style=for-the-badge)](https://alexkaile.github.io/AL/)
@@ -9,6 +9,8 @@ Based in San Francisco 🌎
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/alexkaile/)
 
 </div>
+
+---
 
 **🎓 Computational Biologist Graduate** and **🥼 Machine Learning Researcher** from Brown University. I am passionate in leveraging biomedical research and computer science to develop innovative software solutions. In this GitHub, you will find several repositories that reflect a strong background across several disciplines:
   
@@ -25,6 +27,8 @@ Based in San Francisco 🌎
 ### 🚀 Current Projects
 - Publishing a deep learning in genomics research paper
 - Developing a deep learning task-tracking web-based app
+
+---
 
 ### 💻 Tech Stack
 Software engineering:
@@ -68,7 +72,7 @@ Project Management:
 ![Static Badge](https://img.shields.io/badge/library-jira-darkgreen?style=flat-square&logo=jira)
 ![Static Badge](https://img.shields.io/badge/library-confluence-darkgreen?style=flat-square&logo=confluence)
 
-
+---
 <div align="center">
 
 ⭐️ From [Alex Le](https://github.com/AlexKaiLe)
