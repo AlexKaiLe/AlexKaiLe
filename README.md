@@ -9,7 +9,11 @@
 
 ---
 
-**Computational Biologist Graduate and Machine Learning Researcher** from Brown University. Passionate about **deep learning, biomedical engineering, optimization, and entrepreneurship**.
+**Computational Biologist Graduate and Machine Learning Researcher** from Brown University with a strong background in
+- Deep learning
+- Biomedical engineering
+- Optimization
+- Entrepreneurship
 
 </div>
 
