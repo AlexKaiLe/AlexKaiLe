@@ -1,3 +1,19 @@
+<div align="center">
+<img src="" width="250" />
+
+## 👋🔬 Hi, I'm Alex Le
+
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-%230077B5?style=for-the-badge)]()
+[![Email](https://img.shields.io/badge/📧-Email-%23D14836?style=for-the-badge)]()
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=for-the-badge)]()
+[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge)]()
+
+---
+
+🎓 **Neuroscience graduate** of Johns Hopkins University from Toronto, Canada. Passionate about **biomedical engineering, thermoelectrics, and multiomics**. Dedicated to improving the reach of **science education** in youth.
+
+</div>
+
 # Welcome to my GitHub!
 
 Alexander Le: Computational Biologist, Software Engineer, Machine Learning Researcher
