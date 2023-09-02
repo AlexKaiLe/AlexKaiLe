@@ -4,6 +4,7 @@
 # 👋 Hi, I'm Alex Le 
 Based in San Francisco 📍🌎🌉
 
+[![Resume](https://img.shields.io/badge/📄-Resume-blue?style=for-the-badge)](https://docs.google.com/document/d/1FfdesXCKfRd7sQyjZ8ZKuxk28hrIpJ4nE_dvGnEhkJA/edit)
 [![Portfolio](https://img.shields.io/badge/📁-Portfolio-blue?style=for-the-badge)](https://alexkaile.github.io/AL/)
 [![Email](https://img.shields.io/badge/📧-Email-blue?style=for-the-badge)](mailto:alexkaile@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/alexkaile/)
